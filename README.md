@@ -25,6 +25,11 @@
  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
 
   <h3 align="left">Мои проекты:</h3>
-  [Научиться учиться (HTML, CSS, анимация](https://lizapleshakova.github.io/how-to-learn).
-
+  <ul>
+  <li> <a href="https://github.com/lizapleshakova/movies-explorer-frontend">Сервис по поиску фильмов - JS, React</a></li>
+  <li> <a href="https://lizapleshakova.github.io/mesto-react/">Проект Место - JS, React</a></li>
+  <li> <a href="https://lizapleshakova.github.io/russian-travel/">Путешествия по России - HTML, CSS, адаптивная верстка</a></li>
+  <li> <a href="https://lizapleshakova.github.io/how-to-learn">Научиться учиться - HTML, CSS, анимация</a></li>
+  </ul>
+ 
 
