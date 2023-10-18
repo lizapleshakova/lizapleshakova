@@ -26,10 +26,10 @@
 
   <h3 align="left">Мои проекты:</h3>
   <ul>
-  <li> <a href="https://github.com/lizapleshakova/movies-explorer-frontend" target="_blank">Сервис по поиску фильмов - JS, React</a></li>
-  <li> <a href="https://lizapleshakova.github.io/mesto-react/" target="_blank">Проект Место - JS, React</a></li>
-  <li> <a href="https://lizapleshakova.github.io/russian-travel/" target="_blank">Путешествия по России - HTML, CSS, адаптивная верстка</a></li>
-  <li> <a href="https://lizapleshakova.github.io/how-to-learn" target="_blank">Научиться учиться - HTML, CSS, анимация</a></li>
+  <li> <a href="https://github.com/lizapleshakova/movies-explorer-frontend" target="_blank"  rel="noreferrer">Сервис по поиску фильмов - JS, React</a></li>
+  <li> <a href="https://lizapleshakova.github.io/mesto-react/" target="_blank"  rel="noreferrer">Проект Место - JS, React</a></li>
+  <li> <a href="https://lizapleshakova.github.io/russian-travel/" target="_blank"  rel="noreferrer">Путешествия по России - HTML, CSS, адаптивная верстка</a></li>
+  <li> <a href="https://lizapleshakova.github.io/how-to-learn" target="_blank"  rel="noreferrer">Научиться учиться - HTML, CSS, анимация</a></li>
   </ul>
  
 
