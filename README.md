@@ -24,12 +24,63 @@
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
 
-  <h3 align="left">Мои проекты:</h3>
-  <ul>
-  <li> <a href="https://github.com/lizapleshakova/movies-explorer-frontend" target="_blank"  rel="noreferrer">Сервис по поиску фильмов - JS, React</a></li>
-  <li> <a href="https://lizapleshakova.github.io/mesto-react/" target="_blank"  rel="noreferrer">Проект Место - JS, React</a></li>
-  <li> <a href="https://lizapleshakova.github.io/russian-travel/" target="_blank"  rel="noreferrer">Путешествия по России - HTML, CSS, адаптивная верстка</a></li>
-  <li> <a href="https://lizapleshakova.github.io/how-to-learn" target="_blank"  rel="noreferrer">Научиться учиться - HTML, CSS, анимация</a></li>
-  </ul>
+ 
+# Мои проекты
+      
+ ### Movies Explorer
+  Ссылки на репозитории: 
+  
+  [Movies Explorer Frontend](https://github.com/lizapleshakova/movies-explorer-frontend)
+  
+  [Movies Explorer API](https://github.com/lizapleshakova/movies-explorer-api)
+  
+Movies Explorer -сервис для поиска фильмов
+  HTML5, CSS3, JavaScript, React
+  
+Функциональность
+
+- Регистрация и вход в учетную запись.
+- Поиск фильмов.
+- Сохранение понравившихся фильмов в избранное.
+- Просмотр сохраненных фильмов.
+- Редактирование информации о пользователе.
+
+### Проект Место.
+   
+   Ссылка на репозиторий [Mesto](https://github.com/lizapleshakova/mesto-react)
+   
+   Опубликован на [GitHub Pages](https://lizapleshakova.github.io/mesto-react/).
+   
+   Одностраничное приложения предназначенное для загрузки фотографий с описаниями. 
+    HTML5, CSS3, JavaScript, React: 
+  - Загрузка и просмотр фотографий с использованием API
+  - Добавление, удаление и лайки фотографий
+  - Редактирование профиля пользователя
+
+
+### Путешествия по России. 
+  
+  Ссылка на репозиторий [Russian travel](https://github.com/lizapleshakova/russian-travel) 
+  
+  Опубликован на [GitHub Pages](https://lizapleshakova.github.io/russian-travel/).
+  
+  Информация о различных местах в России с красочными фотографиями.
+  HTML5, CSS3: 
+  - Flexbox
+  - Grid Layout
+  - Анимация
+  - Адаптивная верстка
+  - Методология БЭМ
+  
+### Научиться учиться. Ссылка на проект [GitHub Pages](lizapleshakova.github.io/how-to-learn/).
+  Информативный и интерактивный веб-сайт с полезными советами по обучению.
+  HTML5, CSS3: 
+  - Айфреймы видео из Ютьюб
+  - Анимации картинок и блоков
+  - Прозрачность ссылок при наведении
+  - Методология БЭМ
+
+
+  
  
 
